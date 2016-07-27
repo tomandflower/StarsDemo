@@ -1,0 +1,71 @@
+{
+"code": 0,
+"data": [
+{
+"commList": [
+{
+"cardId": 12,
+"price": "34.00",
+"picUrl": "http://192.168.0.115:9012/upload/dynamic/1607/20160113/20160113185745496QP1XDzkZ.jpg",
+"commodityState": 1,
+"commodityInfo": "2dsds",
+"commodityId": 43
+}],
+"sellerId": 1607,
+"sellerName": "屌丝"
+},
+{
+"commList": [
+{
+"cardId": 13,
+"price": "300.00",
+"picUrl": "http://192.168.0.115:9012/upload/airlinepic/20160114/20160114193216699dbWcH8l9.jpg",
+"commodityState": 1,
+"commodityInfo": "凯迪威合金1:72飞鲨中国航母舰载机歼15飞机模型军事战斗机金属",
+"commodityId": 41
+}
+],
+"sellerId": 1618,
+"sellerName": "1111"
+},
+{
+"commList": [
+{
+"cardId": 9,
+"price": "300.00",
+"picUrl": "http://192.168.0.115:9012/upload/airlinepic/20160114/20160114193216699dbWcH8l9.jpg",
+"commodityState": 1,
+"commodityInfo": "凯迪威合金1:72飞鲨中国航母舰载机歼15飞机模型军事战斗机金属",
+"commodityId": 15
+}
+],
+"sellerId": 1621,
+"sellerName": "粉肠2号"
+},
+{
+"commList": [
+{
+"cardId": 14,
+"price": "",
+"picUrl": "http://192.168.0.115:9012/upload/product/1629/20160303/20160303110704496TKPW8CbM.jpg",
+"commodityState": 1,
+"commodityInfo": "",
+"commodityId": 52
+},
+{
+"cardId": 11,
+"price": "34.00",
+"picUrl": "http://192.168.0.115:9012/upload/product/1629/20160303/20160303113902830XGd8Ec1i.jpg",
+"commodityState": 1,
+"commodityInfo": "客机,中文名称,测试父,测试子类,测试添加,1:5000,公司名称,测试数据",
+"commodityId": 54
+}
+],
+"sellerId": 1628,
+"sellerName": "111FD"
+}
+],
+"curPage": 1,
+"totalCount": 6,
+"totalPage": 1
+}
